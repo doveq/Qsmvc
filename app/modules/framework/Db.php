@@ -3,8 +3,8 @@ namespace Qsmvc;
 
 class Db
 {
-	public function __construct() 
-	{
-		
-	}
+    public function __construct() 
+    {
+        
+    }
 }
